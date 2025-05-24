@@ -10,8 +10,7 @@ Aquí encontrarás una variedad de fondos de pantalla con diferentes temas. ¡Es
 
 Puedes descargar las imágenes directamente desde el repositorio para usarlas como fondo de pantalla en tu dispositivo.
 
-## Licencia (Opcional)
-
+## Licencial
 
 
 ## Notas
