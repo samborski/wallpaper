@@ -12,7 +12,7 @@ Puedes descargar las imágenes directamente desde el repositorio para usarlas co
 
 ## Licencia (Opcional)
 
-[Aquí podrías añadir información sobre la licencia si deseas especificar cómo se pueden usar tus imágenes.]
+
 
 ## Notas
 
